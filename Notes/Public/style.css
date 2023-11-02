@@ -1,0 +1,13 @@
+h1{
+    font-size: 25px;
+    color:rgb(200, 64, 64);
+    justify-content: end;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    justify-content:end;
+}
+.imageeleve{
+    border-radius: 50%;
+    border: 1px solid black;
+}

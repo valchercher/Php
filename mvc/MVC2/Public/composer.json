@@ -1,0 +1,9 @@
+{
+    "name": "fadal/public",
+    "autoload": {
+        "psr-4": {
+            "router\\":"Route"
+        }
+    },
+    "require": {}
+}
